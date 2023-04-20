@@ -38,4 +38,4 @@ db.Sequelize = Sequelize;
 module.exports = db;
 
  // prueba 
- // prueba de creacion de ramas en git 
+ 
